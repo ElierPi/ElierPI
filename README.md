@@ -1,111 +1,29 @@
-# 👋 Hi, I'm ElierPi
+Hi, I’m Elier 👋
+Systems Engineer (2026) | Junior Backend Developer | Python · FastAPI · PostgreSQL
 
-### Backend / Full Stack Software Engineer 🇨🇴
+📍 Colombia · 🌍 Open to remote work · 🗣️ Spanish (native), English (B1)
 
-Software developer focused on building backend systems, APIs and scalable web applications.
+I graduated in Systems Engineering from Universidad de La Guajira, Maicao campus, in 2026. I have 1 year and 1 month of IT experience in the healthcare sector, including work with IPS CIDSMA and IPSI Wayuu Anashii in technical support, equipment maintenance, and documentation.
 
-I work primarily with **Python, FastAPI, Django, .NET, PostgreSQL and Docker**, while also building full-stack applications using **React, Angular and Laravel**.
+I’m transitioning into backend software development, focusing on REST APIs, relational databases, business logic, and automated tests.
+🚀 Featured project
+OrderFlow — Inventory & Order Management
+Full-stack personal project using Python, FastAPI, SQLAlchemy, PostgreSQL, Alembic, React, TypeScript, and pytest.
+- REST API for product and customer management with search, validation, and pagination.
+- Transaction-safe orders and audited inventory movements, including protections against selling the last unit twice.
+- JWT-based authentication with administrator/operator permissions.
+- Responsive React interface with dashboard, products, customers, orders, and inventory.
+- Automated backend and browser tests; Docker Compose and GitHub Actions configuration included.
+The backend, frontend and documentation are available in the public repository. See its README for setup details and verification notes.
+🛠️ Technologies used in my projects
+- Backend: Python, FastAPI, SQLAlchemy, Pydantic, REST APIs
+- Database: PostgreSQL, SQL, Alembic
+- Frontend: React, TypeScript, Vite (personal project)
+- Tools: Git, GitHub, pytest, API testing, technical documentation
+- Professional experience: IT support in healthcare
+📚 Currently learning
+Backend architecture, testing, API security, PostgreSQL, and deployment practices. I use AI-assisted development tools as part of my workflow, and focus on understanding and verifying the resulting code.
+🤝 Open to opportunities
+Remote junior backend developer roles, Python/FastAPI work, application support, and technical AI evaluation.
 
-I'm currently strengthening my knowledge in **backend engineering, software architecture, distributed systems, cloud computing and system design**, while building production-oriented projects to document my progress and engineering practices.
-
----
-
-## 🧑‍💻 What I'm focused on
-
-- Backend development and REST APIs
-- API design and architecture
-- PostgreSQL and relational database design
-- Authentication and authorization
-- Multi-user and multi-tenant applications
-- Docker and containerized environments
-- Automated testing
-- CI/CD
-- Cloud and serverless architectures
-- Clean Architecture and software design principles
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-
-`Python` · `FastAPI` · `Django` · `.NET / C#` · `Laravel` · `Go`
-
-### Frontend
-
-`React` · `Angular` · `TypeScript` · `JavaScript`
-
-### Databases
-
-`PostgreSQL` · `MySQL`
-
-### DevOps & Cloud
-
-`Docker` · `Git` · `GitHub Actions` · `AWS`
-
----
-
-## 🚀 Current Engineering Journey
-
-I'm building projects focused on real-world backend engineering challenges:
-
-- Production-ready REST APIs
-- Multi-tenant SaaS applications
-- Authentication and RBAC
-- Asynchronous processing
-- Distributed systems
-- Containerization
-- Automated testing
-- CI/CD pipelines
-- Cloud deployment
-
-Each repository documents not only **what I built**, but also **why I made each technical decision**.
-
----
-
-## 📚 Currently Learning
-
-```text
-Data Structures & Algorithms
-Backend Architecture
-Clean Architecture
-Design Patterns
-System Design
-Distributed Systems
-Docker
-AWS
-CI/CD
-Testing
-Advanced PostgreSQL
-```
-
----
-
-## 🤖 AI-Assisted Software Development
-
-I use AI as an engineering tool for research, debugging, code review and productivity while maintaining a strong focus on understanding the architecture, implementation and trade-offs behind the software I build.
-
-My goal is not only to generate code, but to be able to **design, explain, test, debug and improve it**.
-
----
-
-## 📌 Featured Projects
-
-🚧 I'm currently rebuilding my public portfolio with production-oriented projects.
-
-Projects coming to this profile will include:
-
-- **FastAPI Production Backend**
-- **Multi-Tenant Management Platform**
-- **.NET Clean Architecture API**
-- **Distributed Systems Project with Go**
-- **Full Stack React Application**
-- **Data Structures & Algorithms**
-
----
-
-## 📫 Open to opportunities
-
-I'm interested in **remote Backend and Full Stack Software Engineering opportunities**, with a particular interest in backend development, APIs and cloud-based systems.
-
-📍 Colombia 🇨🇴
+Email: elierjosepichonhernandez33@gmail.com · GitHub: ElierPi
